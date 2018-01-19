@@ -63,4 +63,4 @@ fi
 source ~/.git-prompt.sh
 
 #rbenv
-eval "$(rbenv init -)"
+# eval "$(rbenv init -)"
